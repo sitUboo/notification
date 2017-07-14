@@ -1,2 +1,2 @@
-jobName=null
-cleanWorkspace=null
+jobName=rez
+cleanWorkspace=true
