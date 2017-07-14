@@ -2,3 +2,4 @@ jobName=rez
 cleanWorkspace=true
 key=value
 abc=xyz
+def=rst
